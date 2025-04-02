@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I'm Isha! 👋
 
-<!--
-**Ishaaa30/Ishaaa30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech Enthusiast.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing CSE from KIIT,Bhubaneswar.
+- 🌱 I’m currently learning JAVA, HTML, CSS,  JavaScript, SQL.
+- 📫 How to reach me: Gmail - ishhaa.2022@gmail.com
+
+### Fun Facts
+
+- I like to edit videos.
+- I also like to make thumbnails.
+- I like exploring new things and meeting new people.
+
+Let's connect and collaborate on exciting projects! 😊
